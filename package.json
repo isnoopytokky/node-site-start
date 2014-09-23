@@ -1,0 +1,14 @@
+{
+  "name": "pap-design",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.9.1",
+    "ejs": "latest"
+  },
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-nodemon": "latest",
+    "grunt-concurrent": "latest"
+  }
+}
